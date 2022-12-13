@@ -1,0 +1,24 @@
+.appointment-container {
+  height: 150px;
+  width: 290px;
+  border: 1px solid #b5b7c4;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.main-heading {
+  font-family: Roboto;
+  font-size: 25px;
+}
+
+.date {
+  font-family: Roboto;
+  font-size: 18px;
+  color: #b5b7c4;
+  font-weight: 600;
+}
+.image-style {
+  height: 50px;
+}
